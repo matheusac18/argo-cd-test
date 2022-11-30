@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app-container
-        image: matheusac18/test-application:v2
+        image: matheusac18/test-application:v3
         ports:
         - containerPort: 80
         - containerPort: 443
